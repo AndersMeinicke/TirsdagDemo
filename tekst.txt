@@ -1,1 +1,2 @@
 Hello
+Dette er en tekstfil
